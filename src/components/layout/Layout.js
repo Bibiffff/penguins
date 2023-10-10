@@ -1,3 +1,4 @@
+import Footer from "./Footer";
 import Nav from "./Nav";
 
 const Layout = ({ children }) => {
@@ -5,9 +6,10 @@ const Layout = ({ children }) => {
     return (
         <>
             <Nav />
-            <main className="container">
+            <main className="container-fluid" style={{marginTop:56}}>
                 {children}
             </main>
+            <Footer />
         </>
     );
 };

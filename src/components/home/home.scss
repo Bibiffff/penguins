@@ -1,0 +1,15 @@
+
+.hero {
+    background-image: url(../images/hero.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    // background-size: cover;
+    // object-fit: contain;
+}
+
+.whitebox {
+    background-color: white;
+    width: 275px;
+    box-shadow: #2B498B 10px 10px;
+}
