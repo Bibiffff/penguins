@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/penguins/static/css/main.5cc1ec95.css",
+    "main.js": "/penguins/static/js/main.5ee85cfb.js",
+    "static/media/hero.jpg": "/penguins/static/media/hero.bf23cdab5b9cb417f241.jpg",
+    "static/media/ping.webp": "/penguins/static/media/ping.de922eeca7edc4acea07.webp",
+    "static/media/bibipingvin.jpg": "/penguins/static/media/bibipingvin.0c53add9ade4a5066ed9.jpg",
+    "static/media/chulpingvin.jpg": "/penguins/static/media/chulpingvin.ca750980e4237b60b3f8.jpg",
+    "static/media/gettyimages-163344719.webp": "/penguins/static/media/gettyimages-163344719.90a1ff96f14afb22cc32.webp",
+    "static/media/umpingping.jpg": "/penguins/static/media/umpingping.caeff5edf2d362a12c01.jpg",
+    "static/media/henry.jpg": "/penguins/static/media/henry.ec26a33842b8111a50e8.jpg",
+    "static/media/GettyImages-697353429-webp": "/penguins/static/media/GettyImages-697353429-5c7e74f046e0fb000140a4dd.2bf09c5cb67a29198256.webp",
+    "static/media/3628639.png": "/penguins/static/media/3628639.b45d69e0b6541e749a47.png",
+    "index.html": "/penguins/index.html",
+    "main.5cc1ec95.css.map": "/penguins/static/css/main.5cc1ec95.css.map",
+    "main.5ee85cfb.js.map": "/penguins/static/js/main.5ee85cfb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5cc1ec95.css",
+    "static/js/main.5ee85cfb.js"
+  ]
+}
