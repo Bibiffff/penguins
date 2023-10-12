@@ -18,13 +18,16 @@ const Nav = () => {
                             <Link className="nav-link active" aria-current="page" to="/">Home</Link>
                         </li>
                         <li className="nav-item">
-                            <Link className="nav-link" to="/">Food</Link>
+                            <Link className="nav-link" to="/food">Food</Link>
                         </li>
                         <li className="nav-item">
-                            <Link className="nav-link" to="/">Penguins</Link>
+                            <Link className="nav-link" to="/penguins">Penguins</Link>
                         </li>
                         <li className="nav-item">
-                            <Link className="nav-link" to="/">Location</Link>
+                            <Link className="nav-link" to="/location">Location</Link>
+                        </li>
+                        <li className="nav-item">
+                            <Link className="nav-link" to="/contact">Contact</Link>
                         </li>
                     </ul>
                 </div>
